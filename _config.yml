@@ -42,3 +42,11 @@ plugins:
 header_pages:
 - index.markdown
 - about.markdown
+
+minima:
+  skin: dark
+
+    # classic
+    # dark
+    # solarized
+    # solarized-dark
