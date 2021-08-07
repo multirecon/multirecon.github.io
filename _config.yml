@@ -41,10 +41,11 @@ plugins:
 
 header_pages:
 - index.markdown
-- about.markdown
+- team.markdown
+- softwares.markdown
 
 minima:
-  skin: dark
+  skin: dark  # doesn't work yet
 
     # classic
     # dark
