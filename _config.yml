@@ -41,6 +41,7 @@ plugins:
 header_pages:
 - index.markdown
 - team.markdown
+- publications.markdown
 - softwares.markdown
 
 minima:
