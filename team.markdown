@@ -20,10 +20,10 @@ title: Team
 
 
 ## PostDocs
-
+- Alessandro Perelli, [LaTIM](https://latim.univ-brest.fr/), [UBO](https://www.univ-brest.fr/)
 
 ## PhD Students
 
-- Noel Jeffrey Pinton, [LaTIM](https://latim.univ-brest.fr/), [LaTIM](https://latim.univ-brest.fr/), [UBO](https://www.univ-brest.fr/)
-- Zhihan Wang, [LaTIM](https://latim.univ-brest.fr/), [LaTIM](https://latim.univ-brest.fr/), [UBO](https://www.univ-brest.fr/)
+- Noel Jeffrey Pinton, [LaTIM](https://latim.univ-brest.fr/), [UBO](https://www.univ-brest.fr/)
+- Zhihan Wang, [LaTIM](https://latim.univ-brest.fr/), [UBO](https://www.univ-brest.fr/)
 - Valentin Gautier, [CREATIS](https://www.creatis.insa-lyon.fr/), [INSA Lyon](http://www.insa-lyon.fr/)
