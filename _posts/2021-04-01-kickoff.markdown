@@ -1,0 +1,12 @@
+---
+title:  "Project Kick-off"
+---
+The project has officially started. A meeting took place on Zoom on the 23rd of March. Hopefully we will be able to meet in real next time!
+
+<!-- ---
+title: Title for the post
+description: Description that will appear below the title in the banner
+background: /assets/img/banner_background_image.jpg
+author: [Author 1, Author 2]
+categories: [Category 1, Category 2]
+--- -->

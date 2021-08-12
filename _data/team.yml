@@ -1,0 +1,118 @@
+# Project team members listed below will appear on the /team page
+
+- name: Alexandre Bousse
+  role: Principal Investigator & Work Package Leader # Will appear next to name
+  image: assets/img/alex.jpg # Can be external link
+  description: > # Can be Markdown
+    Alexandre Bousse is a Research Associate with the French National Institute of Health and Medical Research (Inserm) and member of the [LaTIM](https://latim.univ-brest.fr/). 
+    He received a PhD in Signal and Image Processing in 2008, and the research habilitation (HDR) in 2019. He has been involved in 5 image reconstruction projects with University 
+    College London, including 2 EPSRC grants, a FP7 grant, a GE Healthcare grant, and he co-supervised 7 PhD students. He co-authored over 20 publications in scientific journals, including IEEE Trans-
+    actions on Medical Imaging and Physics in Medicine & Biology. His main contribution comprises
+    model-based image reconstruction (MBIR) algorithms for PET/CT and PET/MRI imaging with motion
+    compensation. With an applied mathematics background, he is at the interface between theoretical
+    and transitional research. 
+    
+
+  orcid: 0000-0003-0815-0604
+  email: alexandre.bousse@univ-brest.fr
+  # github: github_name
+  # twitter: twitter_name
+
+
+- name: Bruno Sixou
+  role: Work Package Leader # Will appear next to name
+  image:  # Can be external link
+  description: > # Can be Markdown
+   Bruno Sixou iss Assistant Professor at [INSA Lyon](http://www.insa-lyon.fr/)  and [CREATIS](https://www.creatis.insa-lyon.fr/). After physics studies in ENS Lyon, he received a PhD in Physics in 1996 and the HDR in 2005. His
+   current research interests are applied mathematics, signal processing, inverse problems, machine
+   learning and deep-learning approaches. His work on inverse problems focuses on tomography, phase
+   retrieval and spectral CT. He co-supervised 5 PHD and has 1 on-going PhD. He co-authored of more
+   than 50 papers in material science, applied mathematics and inverse problems.
+    
+
+
+  # orcid: 
+  email: bruno.sixou@insa-lyon.fr
+
+- name: Claude Comtat
+  role: Work Package Leader  # Will appear next to name
+  image:  # Can be external link
+  description: > # Can be Markdown
+   Claude Comtat is a Senior Scientist and Medical Physicist at Service Hospitalier Frédéric Joliot (SHFJ)/BioMaps. 
+   After physics studies at the EPFL, Lausanne, he received a PhD in Physics in 1996 and the HDR in 2013. His current research interests are multimodal imaging, in
+   particular PET/MR, image reconstruction, and PET simulation. He has been involved in two European
+   (EUREKA and MSC ITN) and five national projects in image reconstruction. He is the author of more than 50 papers, most of them in PET imaging. He is involved since the beginning in the development
+   of [CASToR](https://www.castor-project.org/)  and was involved in the   [OpenGATE collaboration](http://opengatecollaboration.org/)  during its early phase.
+    
+  # orcid: 
+  email: claude.comtat@cea.fr
+
+
+- name: Voichita Maxim
+  role: Supervisor # Will appear next to name
+  image:  # Can be external link
+  description: > # Can be Markdown
+   Voichita Maxim is senior Assistant Professor at [INSA Lyon](http://www.insa-lyon.fr/)  and [CREATIS](https://www.creatis.insa-lyon.fr/). She co-authored about twenty publications in international renowned journals. 
+   She co-supervised 4 defended PhDs and has 2 on-going PhDs. Currently, her research interests include image reconstruction, inverse problems, Monte-Carlo data simulation, modeling of the data acquisition process and machine-
+   learning approaches.
+    
+  # orcid: 
+  email: voichita.maxim@creatis.insa-lyon.fr
+
+
+- name: Florent Sureau
+  role: Research Engineer # Will appear next to name
+  image:  # Can be external link
+  description: > # Can be Markdown
+   Florent Sureau is a Senior scientist at SHFJ/BioMaps. His current research interests include applied mathematics, inverse problem for applications, 
+   in particular sparsity, dictionary learning and PET image reconstruction. He has contributed to two ERC, a FET-OPEN and a COMPET project centered on developing sparse methods (including dictionary learning) for various applications.
+    
+  # orcid: 
+  email: florent.sureau@cea.fr
+
+
+- name: Catherine Cheze-Le Rest
+  role: Clinician # Will appear next to name
+  image:  # Can be external link
+  description: > # Can be Markdown
+   Catherine Cheze-Le Rest is a consultant professor of Nuclear Medicine at the [CHU Poitiers](https://www.chu-poitiers.fr/). Since the last twenty years she has been developing multiple research activities within the field of quanti-
+   tative PET/CT imaging and more specifically in the field of functional volume segmentation for PET
+   imaging. She has published pioneering work in the field of multimodality medical image based radiomics for the prediction of response and survival in lung, esophageal and H&N cancers. In addition,
+   she has worked in demonstrating the interest of radiogenomics and the quantitative assessment of
+   intratumor activity distribution heterogeneity in clinical practice.
+    
+  # orcid: 
+  email: catherine.cheze-le-rest@chu-poitiers.fr
+
+
+
+- name: Noel Jeffrey Pinton
+  role: PhD Student # Will appear next to name
+  image:  # Can be external link
+  description: > # Can be Markdown
+   
+    
+  # orcid: 
+  # email: 
+
+- name: Zhihan Wang
+  role: PhD Student # Will appear next to name
+  image:  # Can be external link
+  description: > # Can be Markdown
+   
+    
+  # orcid: 
+  # email: catherine.cheze-le-rest@chu-poitiers.fr
+
+- name: Valentin Gautier
+  role: PhD Student # Will appear next to name
+  image:  # Can be external link
+  description: > # Can be Markdown
+   
+- name: Suxer Alfonso Garcia
+  role: PhD Student # Will appear next to name
+  image:  # Can be external link
+  description: > # Can be Markdown
+       
+  # orcid: 
+  # email: catherine.cheze-le-rest@chu-poitiers.fr

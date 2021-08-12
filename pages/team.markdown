@@ -1,9 +1,10 @@
 ---
-layout: home
+layout: team
 title: Team
+permalink: /team
 ---
 
-## Lead
+<!-- ## Lead
 
 - [Alexandre Bousse](https://latim.univ-brest.fr/abousse/), [LaTIM](https://latim.univ-brest.fr/), [UBO](https://www.univ-brest.fr/)
 
@@ -26,4 +27,4 @@ title: Team
 
 - Noel Jeffrey Pinton, [LaTIM](https://latim.univ-brest.fr/), [UBO](https://www.univ-brest.fr/)
 - Zhihan Wang, [LaTIM](https://latim.univ-brest.fr/), [UBO](https://www.univ-brest.fr/)
-- Valentin Gautier, [CREATIS](https://www.creatis.insa-lyon.fr/), [INSA Lyon](http://www.insa-lyon.fr/)
+- Valentin Gautier, [CREATIS](https://www.creatis.insa-lyon.fr/), [INSA Lyon](http://www.insa-lyon.fr/) -->
