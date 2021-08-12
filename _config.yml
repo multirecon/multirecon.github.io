@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   MultiRecon aims at developing new image reconstruction techniques for multimodal 
   medical imaging using machine learning. MultiRecon is funded by the French National Research Agency (ANR) with grant number ANR-20-CE45-0020.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://multirecon.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://multirecon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
