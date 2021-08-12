@@ -61,3 +61,10 @@ defaults:
       type: "posts"
     values:
       permalink: "/blog/:slug/"
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"     
+
+      
