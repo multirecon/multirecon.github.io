@@ -1,6 +1,6 @@
 ---
 layout: team
 title: Team
-permalink: /team
+permalink: /team/
 ---
 

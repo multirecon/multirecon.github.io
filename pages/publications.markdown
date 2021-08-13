@@ -1,5 +1,5 @@
 ---
 layout: archive
 title: Publications
-permalink: /publications
+permalink: /publications/
 ---

@@ -1,6 +1,6 @@
 ---
 title: About the Project
-permalink: /about
+permalink: /about/
 background: /assets/img/ct-mri-pet.png
 
 ---

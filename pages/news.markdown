@@ -1,5 +1,5 @@
 ---
 layout: archive
 title: News
-permalink: /news
+permalink: /news/
 ---

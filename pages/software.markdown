@@ -1,6 +1,6 @@
 ---
 layout: archive
 title: Software
-permalink: /software
+permalink: /software/
 ---
 
