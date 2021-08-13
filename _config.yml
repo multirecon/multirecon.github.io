@@ -19,12 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: MultiRecon – Machine Learning for Multimodal Medical Image Reconstruction
-email: alexandre.bousse@univ-brest.fr
+
 description: >- # this means to ignore newlines until "baseurl:"
   MultiRecon aims at developing new image reconstruction techniques for multimodal 
   medical imaging using machine learning. MultiRecon is funded by the French National Research Agency (ANR) with grant number ANR-20-CE45-0020.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://multirecon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+# SOCIAL PROFILES
+email: alexandre.bousse@univ-brest.fr
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
@@ -42,7 +46,7 @@ rounded_corners: true                   # Enable (default) rounded corners on bo
 
 
 
-# Build settings
+# BUILD SETTINGS
 #theme: minima
 remote_theme: peterdesmet/petridish@1.1
 
@@ -50,10 +54,12 @@ remote_theme: peterdesmet/petridish@1.1
 
 plugins:
 - jekyll-remote-theme
-#   - jekyll-feed
+- jekyll-feed
+- jekyll-sitemap
 
 
 
+# FRONTMATTER DEFAULTS
 defaults:
   -
     scope:
