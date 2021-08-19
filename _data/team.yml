@@ -38,8 +38,8 @@
   role: Work Package Leader  # Will appear next to name
   image:  # Can be external link
   description: > # Can be Markdown
-   Claude Comtat is a Senior Scientist and Medical Physicist at Service Hospitalier Frédéric Joliot (SHFJ)/BioMaps. 
-   After physics studies at the EPFL, Lausanne, he received a PhD in Physics in 1996 and the HDR in 2013. His current research interests are multimodal imaging, in
+   Claude Comtat is a Senior Scientist and Medical Physicist at [Biomaps](http://www.biomaps.universite-paris-saclay.fr/) and 
+   [Service Hospitalier Frédéric Joliot (SHFJ)](https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/SHFJ.aspx). After physics studies at the EPFL, Lausanne, he received a PhD in Physics in 1996 and the HDR in 2013. His current research interests are multimodal imaging, in
    particular PET/MR, image reconstruction, and PET simulation. He has been involved in two European
    (EUREKA and MSC ITN) and five national projects in image reconstruction. He is the author of more than 50 papers, most of them in PET imaging. He is involved since the beginning in the development
    of [CASToR](https://www.castor-project.org/)  and was involved in the   [OpenGATE collaboration](http://opengatecollaboration.org/)  during its early phase.
@@ -64,8 +64,9 @@
   role: Research Engineer # Will appear next to name
   image:  # Can be external link
   description: > # Can be Markdown
-   Florent Sureau is a Senior scientist at SHFJ/BioMaps. His current research interests include applied mathematics, inverse problem for applications, 
-   in particular sparsity, dictionary learning and PET image reconstruction. He has contributed to two ERC, a FET-OPEN and a COMPET project centered on developing sparse methods (including dictionary learning) for various applications.
+   Florent Sureau is a Senior scientist at [Biomaps](http://www.biomaps.universite-paris-saclay.fr/) and 
+   [SHFJ](https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/SHFJ.aspx). His current research interests include applied mathematics, inverse problem for applications, 
+   in particular sparsity, dictionary learning and PET image reconstruction. He has contributed to two ERCs, a FET-OPEN and a COMPET project centered on developing sparse methods (including dictionary learning) for various applications.
     
   # orcid: 
   email: florent.sureau@cea.fr
