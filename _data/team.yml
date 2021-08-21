@@ -23,7 +23,7 @@
   role: Work Package Leader # Will appear next to name
   image:  # Can be external link
   description: > # Can be Markdown
-   Bruno Sixou iss Assistant Professor at [INSA Lyon](http://www.insa-lyon.fr/)  and [CREATIS](https://www.creatis.insa-lyon.fr/). After physics studies in ENS Lyon, he received a PhD in Physics in 1996 and the HDR in 2005. His
+   Bruno Sixou is an Assistant Professor at [INSA Lyon](http://www.insa-lyon.fr/)  and [CREATIS](https://www.creatis.insa-lyon.fr/). After physics studies in ENS Lyon, he received a PhD in Physics in 1996 and the HDR in 2005. His
    current research interests are applied mathematics, signal processing, inverse problems, machine
    learning and deep-learning approaches. His work on inverse problems focuses on tomography, phase
    retrieval and spectral CT. He co-supervised 5 PHD and has 1 on-going PhD. He co-authored of more
@@ -49,10 +49,10 @@
 
 
 - name: Voichita Maxim
-  role: Supervisor # Will appear next to name
+  role: Work Package Leader # Will appear next to name
   image:  # Can be external link
   description: > # Can be Markdown
-   Voichita Maxim is senior Assistant Professor at [INSA Lyon](http://www.insa-lyon.fr/)  and [CREATIS](https://www.creatis.insa-lyon.fr/). She co-authored about twenty publications in international renowned journals. 
+   Voichita Maxim is a Senior Assistant Professor at [INSA Lyon](http://www.insa-lyon.fr/)  and [CREATIS](https://www.creatis.insa-lyon.fr/). She co-authored about twenty publications in international renowned journals. 
    She co-supervised 4 defended PhDs and has 2 on-going PhDs. Currently, her research interests include image reconstruction, inverse problems, Monte-Carlo data simulation, modeling of the data acquisition process and machine-
    learning approaches.
     
@@ -64,7 +64,7 @@
   role: Research Engineer # Will appear next to name
   image:  # Can be external link
   description: > # Can be Markdown
-   Florent Sureau is a Senior scientist at [Biomaps](http://www.biomaps.universite-paris-saclay.fr/) and 
+   Florent Sureau is a Senior Scientist at [Biomaps](http://www.biomaps.universite-paris-saclay.fr/) and 
    [SHFJ](https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/SHFJ.aspx). His current research interests include applied mathematics, inverse problem for applications, 
    in particular sparsity, dictionary learning and PET image reconstruction. He has contributed to two ERCs, a FET-OPEN and a COMPET project centered on developing sparse methods (including dictionary learning) for various applications.
     
@@ -76,7 +76,7 @@
   role: Clinician # Will appear next to name
   image:  # Can be external link
   description: > # Can be Markdown
-   Catherine Cheze-Le Rest is a consultant professor of Nuclear Medicine at the [CHU Poitiers](https://www.chu-poitiers.fr/). Since the last twenty years she has been developing multiple research activities within the field of quanti-
+   Catherine Cheze-Le Rest is a Consultant Professor of nuclear medicine at the [CHU Poitiers](https://www.chu-poitiers.fr/). Since the last twenty years she has been developing multiple research activities within the field of quanti-
    tative PET/CT imaging and more specifically in the field of functional volume segmentation for PET
    imaging. She has published pioneering work in the field of multimodality medical image based radiomics for the prediction of response and survival in lung, esophageal and H&N cancers. In addition,
    she has worked in demonstrating the interest of radiogenomics and the quantitative assessment of
