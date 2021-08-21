@@ -11,8 +11,11 @@ columns:
     - text: CREATIS
       href: https://www.creatis.insa-lyon.fr/
       new_window: true
+    - text: BioMaps
+      href: http://www.biomaps.universite-paris-saclay.fr/
+      new_window: true    
     - text: SHFJ
-      # href: 
+      href: https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/SHFJ.aspx
       new_window: true  
     - text: CHU Poitiers
       href: https://www.chu-poitiers.fr/
