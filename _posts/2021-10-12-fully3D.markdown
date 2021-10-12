@@ -6,6 +6,6 @@ and material decomposition for dual-energy cone-beam computed tomography,” in 
 Medicine, 2021, pp. 389–394.
 {: style="text-align: justify"}
 
-The full conference proceeding is available on [Arxiv](URL "https://arxiv.org/abs/2110.04143").
+The full conference proceeding is available on [Arxiv](https://arxiv.org/abs/2110.04143).
 {: style="text-align: justify"}
 
