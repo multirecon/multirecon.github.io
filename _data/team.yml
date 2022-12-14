@@ -96,9 +96,7 @@
   description: > # Can be Markdown
    
       
-    
-  # orcid: 
-  # email: catherine.cheze-le-rest@chu-poitiers.fr
+   
 
 - name: Valentin Gautier
   role: PhD Student # Will appear next to name
@@ -110,5 +108,3 @@
   image:  # Can be external link
   description: > # Can be Markdown
        
-  # orcid: 
-  # email: catherine.cheze-le-rest@chu-poitiers.fr
