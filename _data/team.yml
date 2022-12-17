@@ -89,10 +89,10 @@
   role: Postdoc # Will appear next to name
   image:  assets/img/photo_site_MS.jpg # Can be external link
   description: > # Can be Markdown
-  Marion Savanier is a post-doctorate researcher at [Biomaps](http://www.biomaps.universite-paris-saclay.fr/) and [SHFJ](https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/SHFJ.aspx), where she is working on multimodal machine learning for PET/CT and PET/MRI image reconstruction 
-  under the supervision of Florent Sureau and Claude Comtat. In November 2022, she completed a PhD in image processing at CentraleSupélec, Université Paris-Saclay, 
-  under the supervision of Emilie Chouzenoux and in collaboration with GE Healthcare. Her PhD work focused on developing iterative fixed point methods for image reconstruction 
-  in Cone Beam CT. 
+   Marion Savanier is a post-doctorate researcher at [Biomaps](http://www.biomaps.universite-paris-saclay.fr/) and [SHFJ](https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/SHFJ.aspx), where she is working on multimodal machine learning for PET/CT and PET/MRI image reconstruction 
+   under the supervision of Florent Sureau and Claude Comtat. In November 2022, she completed a PhD in image processing at CentraleSupélec, Université Paris-Saclay, 
+   under the supervision of Emilie Chouzenoux and in collaboration with GE Healthcare. Her PhD work focused on developing iterative fixed point methods for image reconstruction 
+   in Cone Beam CT. 
 
 - name: Noel Jeffrey Pinton
   role: PhD Student # Will appear next to name
