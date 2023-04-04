@@ -103,7 +103,7 @@
    
 - name: Valentin Gautier
   role: PhD Student # Will appear next to name
-  image:  # Can be external link
+  image: assets/img/pic_mt180.jpg
   description: > # Can be Markdown
 
   email: valentin.gautier@creatis.insa-lyon.fr
