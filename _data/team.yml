@@ -96,7 +96,7 @@
 
 - name: Noel Jeffrey Pinton
   role: PhD Student # Will appear next to name
-  image:  # Can be external link
+  image:  assets/img/Noel.jpg
   description: > # Can be Markdown
   
   email: Noel-Jeffrey.Pinton@univ-brest.fr
