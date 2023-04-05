@@ -1,5 +1,6 @@
 ---
 title:  "Fully 3D"
+background: /assets/img/Stony_Brook_University_Main_Entrance_West_Campus_sign.jpg
 ---
 The abstracts submitted by Noel and Valentin to Fully3D have been both accepted for oral presentations, congratulations to them!
 
