@@ -1,5 +1,7 @@
 ---
 title:  "Project Kick-off"
+background: /assets/img/kickoff.jpg
+
 ---
 The project has officially started. A meeting took place on Zoom on the 23rd of March. Hopefully we will be able to meet in real next time!
 
