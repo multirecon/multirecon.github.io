@@ -12,3 +12,6 @@ S. Alfonso Garcia, A. Perelli, A. Bousse, and D. Visvikis, “Sparse-view joint 
 A. Bousse, V. Sai Sundar Kandarpa, S. Rit, A. Perelli, M. Li, G. Wang, J. Zhou, G. Wang, “Systematic Review on Learning-based Spectral CT”, IEEE Transactions on Radiation and Plasma Medical Sciences, 2023. [Link](https://ieeexplore.ieee.org/document/10247265) 
 
 Z. Wang, A. Bousse, F. Vermet, J. Froment, B. Vedel, A. Perelli, J.-P. Tasu, D. Visvikis, “Uconnect: Synergistic Spectral CT Reconstruction With U-Nets Connecting the Energy Bins”, IEEE Transactions on Radiation and Plasma Medical Sciences, 2023. [Link](https://ieeexplore.ieee.org/document/10308615)
+
+A. Bousse, V. Sai Sundar Kandarpa, K. Shi, K. Gong, J. S. Lee, C. Liu, D. Visvikis, “A Review on Low-Dose Emission Tomography Post-Reconstruction Denoising With Neural Network Approaches”, IEEE Transactions on Radiation and Plasma Medical Sciences, 2024. [Link](https://ieeexplore.ieee.org/document/10379513)
+
