@@ -14,7 +14,7 @@ V. Gautier, C. Comtat, F. Sureau, A. Bousse, L. Friot-Giroux, V. Maxim, and B. S
 
 N. J. Pinton, A. Bousse, Z. Wang, C. Cheze-Le-Rest, V. Maxim, C. Comtat, F. Sureau, an D. Visvikis, “Synergistic PET/CT Reconstruction Using a Joint Generative Model”, in International Conference on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine, 2023, pp. 320-323. [Link](https://arxiv.org/abs/2310.16846)
 
-F. Sureau, M. Latreche, M. Savanier, and C. Comtat, “Convergent ADMM Plug and Play PET Image Reconstruction”, in International Conference on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine, 2023, pp. 320-323. [Link](https://arxiv.org/abs/2310.16846)
+F. Sureau, M. Latreche, M. Savanier, and C. Comtat, “Convergent ADMM Plug and Play PET Image Reconstruction”, in International Conference on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine, 2023, pp. 386-389. [Link](https://arxiv.org/abs/2310.16846)
 
 Z. Wang, A. Bousse, F. Vermet, J. Froment, B. Vedel, A. Perelli, J.-P. Tasu, D. Visvikis, “Uconnect: Synergistic Spectral CT Reconstruction With U-Nets Connecting the Energy Bins”, IEEE Transactions on Radiation and Plasma Medical Sciences, 2023. [Link](https://ieeexplore.ieee.org/document/10308615)
 
