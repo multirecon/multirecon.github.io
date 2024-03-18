@@ -115,8 +115,10 @@
 
   email: zhihan.wang@univ-brest.fr
    
-- name: Suxer Alfonso Garcia
+- name: Corentin Vazia
   role: PhD Student # Will appear next to name
   image:  # Can be external link
   description: > # Can be Markdown
+
+  email: corentin.vazia@univ-ubs.fr
        
