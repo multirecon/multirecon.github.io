@@ -1,0 +1,6 @@
+---
+title:  "ISBI 2024"
+background: /assets/img/ISBI.jpeg
+---
+Two abstracts have been accepted to the 21st ΙΕΕΕ International Symposium on Biomedical Imaging that will be held from 27/05/2024 until 30/05/2024 at the Megaron Athens International Conference Centre in Athens, Greece.
+{: style="text-align: justify"}

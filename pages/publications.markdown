@@ -19,3 +19,7 @@ F. Sureau, M. Latreche, M. Savanier, and C. Comtat, “Convergent ADMM Plug and 
 Z. Wang, A. Bousse, F. Vermet, J. Froment, B. Vedel, A. Perelli, J.-P. Tasu, D. Visvikis, “Uconnect: Synergistic Spectral CT Reconstruction With U-Nets Connecting the Energy Bins”, IEEE Transactions on Radiation and Plasma Medical Sciences, 2023. [Link](https://ieeexplore.ieee.org/document/10308615)
 
 A. Bousse, V. Sai Sundar Kandarpa, K. Shi, K. Gong, J. S. Lee, C. Liu, D. Visvikis, “A Review on Low-Dose Emission Tomography Post-Reconstruction Denoising With Neural Network Approaches”, IEEE Transactions on Radiation and Plasma Medical Sciences, 2024. [Link](https://ieeexplore.ieee.org/document/10379513)
+
+C. Vazia, A. Bousse, B. Vedel, F. Vermet, Z. Wang, T. Dassow, J-P. Tasu, D. Visvikis, J. Froment, “Diffusion Posterior Sampling for Synergistic Reconstruction in Spectral Computed Tomography”, preprint accepted to the 21st ΙΕΕΕ International Symposium on Biomedical Imaging – ISBI, 2024. [Link](https://arxiv.org/abs/2403.06308)
+
+C. Vazia, A. Bousse, B. Vedel, F. Vermet, Z. Wang, T. Dassow, J-P. Tasu, D. Visvikis, J. Froment, “Spectral CT Two-step and One-step Material Decomposition using Diffusion Posterior Sampling”, preprint, 2024. [Link](https://arxiv.org/abs/2403.10183)
