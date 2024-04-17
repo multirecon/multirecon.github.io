@@ -12,7 +12,7 @@ A. Bousse, V. Sai Sundar Kandarpa, S. Rit, A. Perelli, M. Li, G. Wang, J. Zhou, 
 
 V. Gautier, C. Comtat, F. Sureau, A. Bousse, L. Friot-Giroux, V. Maxim, and B. Sixou, “VAE constrained MR guided PET reconstruction”, in International Conference on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine, 2023, pp. 119-122. [Link](https://arxiv.org/abs/2310.16846)
 
-N. J. Pinton, A. Bousse, Z. Wang, C. Cheze-Le-Rest, V. Maxim, C. Comtat, F. Sureau, an D. Visvikis, “Synergistic PET/CT Reconstruction Using a Joint Generative Model”, in International Conference on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine, 2023, pp. 320-323. [Link](https://arxiv.org/abs/2310.16846)
+N. J. Pinton, A. Bousse, Z. Wang, C. Cheze-Le-Rest, V. Maxim, C. Comtat, F. Sureau, and D. Visvikis, “Synergistic PET/CT Reconstruction Using a Joint Generative Model”, in International Conference on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine, 2023, pp. 320-323. [Link](https://arxiv.org/abs/2310.16846)
 
 F. Sureau, M. Latreche, M. Savanier, and C. Comtat, “Convergent ADMM Plug and Play PET Image Reconstruction”, in International Conference on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine, 2023, pp. 386-389. [Link](https://arxiv.org/abs/2310.16846)
 
@@ -23,3 +23,5 @@ A. Bousse, V. Sai Sundar Kandarpa, K. Shi, K. Gong, J. S. Lee, C. Liu, D. Visvik
 C. Vazia, A. Bousse, B. Vedel, F. Vermet, Z. Wang, T. Dassow, J-P. Tasu, D. Visvikis, J. Froment, “Diffusion Posterior Sampling for Synergistic Reconstruction in Spectral Computed Tomography”, preprint accepted to the 21st ΙΕΕΕ International Symposium on Biomedical Imaging – ISBI, 2024. [Link](https://arxiv.org/abs/2403.06308)
 
 C. Vazia, A. Bousse, B. Vedel, F. Vermet, Z. Wang, T. Dassow, J-P. Tasu, D. Visvikis, J. Froment, “Spectral CT Two-step and One-step Material Decomposition using Diffusion Posterior Sampling”, preprint, 2024. [Link](https://arxiv.org/abs/2403.10183)
+
+N. J. Pinton, A. Bousse, C. Cheze-Le-Rest, and D. Visvikis, “Multi-Branch Generative Models for Multichannel Imaging with an Application to PET/CT Joint Reconstruction”, preprint. [Link](https://arxiv.org/abs/2404.08748)
