@@ -1,0 +1,12 @@
+---
+title:  "EUSIPCO 2024"
+background: /assets/img/EUSIPCO-Lyon.png
+---
+Two abstracts have been accepted to the 32nd European Signal Processing Conference (EUSIPCO) that will be held from 26/08/2024 until 30/08/2024 at the Lyon Convention Center in Lyon, France:
+
+- "Spectral CT two-step and one-step material decomposition using diffusion posterior sampling" by C. Vazia, A. Bousse, J. Froment, B. Vedel, F. Vermet, Z. Wang, T. Dassow, J.-P. Tasu, D. Visvikis
+
+- "Synergistic PET/MR reconstruction with VAE constraint" by V. Gautier, C. Comtat, F. Sureau, A. Bousse, V. Maxim, B. Sixou.
+
+
+{: style="text-align: justify"}
