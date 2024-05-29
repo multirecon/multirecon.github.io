@@ -1,6 +1,6 @@
 ---
 title:  "EUSIPCO 2024"
-background: /assets/img/EUSIPCO-Lyon.png
+background: /assets/img/EUSIPCO_Lyon.png
 ---
 Two abstracts have been accepted to the 32nd European Signal Processing Conference (EUSIPCO) that will be held from 26/08/2024 until 30/08/2024 at the Lyon Convention Center in Lyon, France:
 
