@@ -29,3 +29,5 @@ N. J. Pinton, A. Bousse, C. Cheze-Le-Rest, and D. Visvikis, “Multi-Branch Gene
 J. Molina, A. Bousse, T. Catalán, Z. Wang, M. Petrache, F. Sahli, C. Prieto, M. Courdurier, “CConnect: Synergistic Convolutional Regularization for Cartesian T2* Mapping”, preprint, 2024. [Link](https://arxiv.org/abs/2404.18182)
 
 V. Gautier, A. Bousse, F. Sureau, C. Comtat, V. Maxim and B. Sixou, “Bimodal PET/MRI generative reconstruction based on VAE architectures”, Physics in Medicine & Biology, 2024. [Link](https://iopscience.iop.org/article/10.1088/1361-6560/ad9133)
+
+C. Phung-Ngoc, A. Bousse, A. De Paepe, H.-P. Dang, O. Saut and D. Visvikis, “Joint Reconstruction of the Activity and the Attenuation in PET by Diffusion Posterior Sampling: a Feasibility Study”, preprint, 2024. [Link](https://arxiv.org/abs/2412.11776) 
