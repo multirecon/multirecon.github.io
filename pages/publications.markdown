@@ -24,10 +24,10 @@ C. Vazia, A. Bousse, B. Vedel, F. Vermet, Z. Wang, T. Dassow, J-P. Tasu, D. Visv
 
 C. Vazia, A. Bousse, B. Vedel, F. Vermet, Z. Wang, T. Dassow, J-P. Tasu, D. Visvikis, J. Froment, “Spectral CT Two-step and One-step Material Decomposition using Diffusion Posterior Sampling”, preprint, 2024. [Link](https://arxiv.org/abs/2403.10183)
 
-N. J. Pinton, A. Bousse, C. Cheze-Le-Rest, and D. Visvikis, “Multi-Branch Generative Models for Multichannel Imaging With an Application to PET/CT Synergistic Reconstruction”, IEEE Transactions on Radiation and Plasma Medical Sciences, 2023. [Link](https://ieeexplore.ieee.org/document/10847890) 
-
 J. Molina, A. Bousse, T. Catalán, Z. Wang, M. Petrache, F. Sahli, C. Prieto, M. Courdurier, “CConnect: Synergistic Convolutional Regularization for Cartesian T2* Mapping”, preprint, 2024. [Link](https://arxiv.org/abs/2404.18182)
 
 V. Gautier, A. Bousse, F. Sureau, C. Comtat, V. Maxim and B. Sixou, “Bimodal PET/MRI generative reconstruction based on VAE architectures”, Physics in Medicine & Biology, 2024. [Link](https://iopscience.iop.org/article/10.1088/1361-6560/ad9133)
 
 C. Phung-Ngoc, A. Bousse, A. De Paepe, H.-P. Dang, O. Saut and D. Visvikis, “Joint Reconstruction of the Activity and the Attenuation in PET by Diffusion Posterior Sampling: a Feasibility Study”, preprint, 2024. [Link](https://arxiv.org/abs/2412.11776) 
+
+N. J. Pinton, A. Bousse, C. Cheze-Le-Rest, and D. Visvikis, “Multi-Branch Generative Models for Multichannel Imaging With an Application to PET/CT Synergistic Reconstruction”, IEEE Transactions on Radiation and Plasma Medical Sciences, 2025. [Link](https://ieeexplore.ieee.org/document/10847890) 
