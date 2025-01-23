@@ -24,7 +24,7 @@ C. Vazia, A. Bousse, B. Vedel, F. Vermet, Z. Wang, T. Dassow, J-P. Tasu, D. Visv
 
 C. Vazia, A. Bousse, B. Vedel, F. Vermet, Z. Wang, T. Dassow, J-P. Tasu, D. Visvikis, J. Froment, “Spectral CT Two-step and One-step Material Decomposition using Diffusion Posterior Sampling”, preprint, 2024. [Link](https://arxiv.org/abs/2403.10183)
 
-N. J. Pinton, A. Bousse, C. Cheze-Le-Rest, and D. Visvikis, “Multi-Branch Generative Models for Multichannel Imaging with an Application to PET/CT Joint Reconstruction”, preprint. [Link](https://arxiv.org/abs/2404.08748)
+N. J. Pinton, A. Bousse, C. Cheze-Le-Rest, and D. Visvikis, “Multi-Branch Generative Models for Multichannel Imaging With an Application to PET/CT Synergistic Reconstruction”, IEEE Transactions on Radiation and Plasma Medical Sciences, 2023. [Link](https://ieeexplore.ieee.org/document/10847890) 
 
 J. Molina, A. Bousse, T. Catalán, Z. Wang, M. Petrache, F. Sahli, C. Prieto, M. Courdurier, “CConnect: Synergistic Convolutional Regularization for Cartesian T2* Mapping”, preprint, 2024. [Link](https://arxiv.org/abs/2404.18182)
 
