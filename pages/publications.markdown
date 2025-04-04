@@ -31,3 +31,5 @@ V. Gautier, A. Bousse, F. Sureau, C. Comtat, V. Maxim and B. Sixou, “Bimodal P
 C. Phung-Ngoc, A. Bousse, A. De Paepe, H.-P. Dang, O. Saut and D. Visvikis, “Joint Reconstruction of the Activity and the Attenuation in PET by Diffusion Posterior Sampling: a Feasibility Study”, preprint, 2024. [Link](https://arxiv.org/abs/2412.11776) 
 
 N. J. Pinton, A. Bousse, C. Cheze-Le-Rest, and D. Visvikis, “Multi-Branch Generative Models for Multichannel Imaging With an Application to PET/CT Synergistic Reconstruction”, IEEE Transactions on Radiation and Plasma Medical Sciences, 2025. [Link](https://ieeexplore.ieee.org/document/10847890) 
+
+C. Vazia, T. Dassow, A. Bousse, J. Froment, B. Vedel, F. Vermet, A. Perelli, Jean-Pierre Tasu and Dimitris Visvikis, "Material Decomposition in Photon-Counting Computed Tomography with Diffusion Models: Comparative Study and Hybridization with Variational Regularizers", 2025. [Link](https://arxiv.org/pdf/2503.15383) 
