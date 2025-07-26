@@ -5,12 +5,7 @@ background: /assets/img/ANR-logo-2021-sigle.jpg
 ---
 
 
-<!-- Logo scaled to max‑width: 200px -->
-<div style="max-width: 200px; margin: 0 auto;">
-  <img src="/assets/img/ANR-logo-2021-sigle.jpg"
-       alt="ANR Logo"
-       style="width: 100%; height: auto;" />
-</div>
+
 
 We are pleased to share that the MultiRecon project has now concluded.
 
