@@ -2,8 +2,8 @@
 layout: post
 title: "MultiRecon Project Completed"
 date: 2025-07-26
-image: /assets/img/ANR-logo-2021-sigle.eps
-background: /assets/img/ANR-logo-2021-sigle.eps
+image: /assets/img/ANR-logo-2021-sigle.png
+background: /assets/img/ANR-logo-2021-sigle.png
 ---
 
 We are pleased to share that the MultiRecon project has now concluded.
