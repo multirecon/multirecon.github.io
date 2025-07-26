@@ -2,7 +2,6 @@
 title:  "PhD thesis defense of Noel and Zhihan"
 image: /assets/img/defense_noel.jpg
 background: /assets/img/defense_noel.jpg
-
 ---
 We are proud to share that Noel Jeffrey Pinton and Zhihan Wang, successfully defended their theses on Friday, December 20, 2024.
 

@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "MultiRecon Project Completed"
-date: 2025-07-26
 image: /assets/img/ANR-logo-2021-sigle.eps
 background: /assets/img/ANR-logo-2021-sigle.eps
 ---
