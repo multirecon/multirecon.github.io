@@ -1,7 +1,7 @@
 ---
 title: "MultiRecon Project Completed"
-image: /assets/img/ANR-logo-2021-sigle.eps
-background: /assets/img/ANR-logo-2021-sigle.eps
+image: /assets/img/ANR-logo-2021-sigle.jpg
+background: /assets/img/ANR-logo-2021-sigle.jpg
 ---
 
 We are pleased to share that the MultiRecon project has now concluded.
