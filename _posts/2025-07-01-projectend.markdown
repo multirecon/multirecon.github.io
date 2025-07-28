@@ -9,6 +9,8 @@ background: /assets/img/ANR-logo-2021-sigle.jpg
 
 We are pleased to share that the MultiRecon project has now concluded.
 
+The final report has been submitted to the ANR and will be made public soon.
+
 ## Overview
 
 MultiRecon developed machine-learning methods for multimodal medical imaging (PET/CT and PET/MRI). Our main objectives were:
